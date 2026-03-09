@@ -77,8 +77,7 @@ This portfolio reflects that perspective.
 
 # Author
 
-**Gianluigi Riccardi**
-
+## **Gianluigi Riccardi**
 Industrial Systems  
 Reliability Engineering  
 Industrial Asset Management  
