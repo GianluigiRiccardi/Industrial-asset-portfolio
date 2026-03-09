@@ -42,7 +42,7 @@ Recognizing and interpreting these signals allows engineers to move from **react
 The repository is organized as a series of engineering case studies focused on different industrial systems.
 
 01_Firefighting_Continuity  
-02_Dead_Legs_Removal  
+02_Dead_Legs_Analysis 
 03_Pump_Reliability  
 04_SimuLift  
 05_ReliaVib  
