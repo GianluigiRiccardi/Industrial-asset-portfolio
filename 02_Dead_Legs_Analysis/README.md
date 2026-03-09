@@ -9,6 +9,13 @@ Over time these changes may generate pipeline segments with **very low or zero f
 
 Although often overlooked, dead legs can become critical locations for degradation mechanisms that threaten the long-term integrity of industrial piping systems.
 
+## Example Configuration
+
+![Dead Leg Pipeline Configuration](dead_leg_pipeline_configuration.png)
+
+Example of a pipeline branch connected to equipment no longer in service.  
+When these sections remain isolated by valves, stagnant zones may develop and create long-term integrity risks such as corrosion, contamination or residual pressure retention.
+
 ---
 
 # System Context
