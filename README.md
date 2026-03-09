@@ -1,4 +1,4 @@
-# Gianluigi Riccardi – Technical Portfolio  
+# Gianluigi Riccardi – Technical Portfolio
 ### Industrial Asset Management | System Thinking | Weak Signal Engineering
 
 This repository presents a selection of engineering case studies based on real industrial systems.
@@ -40,3 +40,47 @@ Recognizing and interpreting these signals allows engineers to move from **react
 # Portfolio Structure
 
 The repository is organized as a series of engineering case studies focused on different industrial systems.
+
+01_Firefighting_Continuity  
+02_Dead_Legs_Removal  
+03_Pump_Reliability  
+04_SimuLift  
+05_ReliaVib  
+06_OMI
+
+---
+
+## Case Study Method
+
+Each case study follows the same analytical structure:
+
+1. System context  
+2. Observed signals  
+3. Engineering interpretation  
+4. Asset management implications
+
+---
+
+# Engineering Perspective
+
+Industrial plants are not static installations.
+
+They are **living systems shaped by decades of engineering decisions, plant expansions and operational adaptations**.
+
+Understanding these systems requires more than knowledge of individual components.
+
+It requires the ability to **read the behaviour of the system as a whole**.
+
+This portfolio reflects that perspective.
+
+---
+
+# Author
+
+**Gianluigi Riccardi**
+
+Industrial Systems  
+Reliability Engineering  
+Industrial Asset Management  
+System Thinking in Complex Plants
+---
