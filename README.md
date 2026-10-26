@@ -37,16 +37,19 @@ Recognizing and interpreting these signals allows engineers to move from **react
 
 ---
 
-# Portfolio Structure
+# Case Studies
 
-The repository is organized as a series of engineering case studies focused on different industrial systems.
+| Case study | What it shows |
+|---|---|
+| [Firefighting System Continuity](01_Firefighting_Continuity/) | How jockey pump cycles and pressure recovery times reveal a firefighting network drifting away from its design equilibrium |
+| [Dead Legs in Industrial Pipelines](02_Dead_Legs_Analysis/) | How decades of plant modifications leave stagnant pipeline sections where degradation develops unnoticed |
 
-01_Firefighting_Continuity  
-02_Dead_Legs_Analysis  
-03_Pump_Reliability  
-04_SimuLift  
-05_ReliaVib  
-06_OMI
+## Related projects
+
+| Project | What it is |
+|---|---|
+| [SimuLift](https://github.com/GianluigiRiccardi/SimuLift) | A Simulink model that checks a lifting operation before it is executed: impact force, overload and wind |
+| [ReliaVib](https://github.com/GianluigiRiccardi/ReliaVib) | A proof of concept for vibration analysis with a smartphone as sensor and MATLAB for the analysis |
 
 ---
 
@@ -77,9 +80,6 @@ This portfolio reflects that perspective.
 
 # Author
 
-## **Gianluigi Riccardi**
-Industrial Systems  
-Reliability Engineering  
-Industrial Asset Management  
-System Thinking in Complex Plants
----
+**Gianluigi Riccardi**, operations and reliability for safety-critical industrial assets.
+
+[Website](https://gianluigiriccardi.github.io) · [LinkedIn](https://www.linkedin.com/in/gianluigi-riccardi-ai-industrial)

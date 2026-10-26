@@ -104,3 +104,7 @@ Firefighting networks are not static infrastructures.
 They are dynamic systems that evolve together with the plant.
 
 Reading weak operational signals allows engineers to understand when the system is gradually moving away from its original design equilibrium and to intervene before safety or operational continuity are compromised.
+
+---
+
+[Back to the portfolio](../README.md) · [Website](https://gianluigiriccardi.github.io)

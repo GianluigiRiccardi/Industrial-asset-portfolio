@@ -121,3 +121,7 @@ Industrial Systems
 Reliability Engineering  
 Industrial Asset Management  
 System Thinking in Complex Plants
+
+---
+
+[Back to the portfolio](../README.md) · [Website](https://gianluigiriccardi.github.io)
