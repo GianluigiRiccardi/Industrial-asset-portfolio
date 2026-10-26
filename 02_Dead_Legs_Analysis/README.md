@@ -91,7 +91,7 @@ The objective is not necessarily to eliminate every dead leg, but to **understan
 
 # Connection to OMI Framework
 
-This case study relates to the **OMI – Original Maintenance Insight** framework.
+This case study relates to the **OMI – Original Maintenance Index** framework.
 
 OMI is based on the idea that industrial systems often produce **subtle signals indicating shifts in their internal equilibrium long before failures occur**.
 

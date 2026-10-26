@@ -20,7 +20,7 @@ The projects collected here describe practical situations observed in industrial
 
 All case studies in this portfolio are connected to a conceptual approach called:
 
-## OMI – Original Maintenance Insight
+## OMI – Original Maintenance Index
 
 OMI is based on a simple principle:
 

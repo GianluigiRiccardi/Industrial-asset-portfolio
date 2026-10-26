@@ -89,7 +89,7 @@ Identifying system drift months in advance allows engineers and plant managers t
 
 # Connection to OMI
 
-This case study reflects the principles behind **OMI – Original Maintenance Insight**.
+This case study reflects the principles behind **OMI – Original Maintenance Index**.
 
 Industrial systems often reveal their evolving condition through subtle operational signals long before failures occur.
 
